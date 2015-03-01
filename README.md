@@ -9,5 +9,7 @@
     - token
     - ctools
     - features
-    - tinynav (set a breakpoint for nav to change to dropdown)    
+    - Google Analytics
+    - tinynav (set a breakpoint for nav to change to dropdown)
+    - adaptive_image (responsive image swapouts)
     
